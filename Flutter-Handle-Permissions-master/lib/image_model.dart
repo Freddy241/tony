@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
-import 'package:permission_handler/permission_handler.dart';
+import "package:permission_handler/permission_handler.dart";
 
 // This enum will manage the overall state of the app
 enum ImageSection {
